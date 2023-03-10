@@ -1,0 +1,2 @@
+The init of test1.txt file.
+
