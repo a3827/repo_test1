@@ -12,3 +12,6 @@ Master, change 3 to text1.txt.
 M21
 Master, change 21 to text1.txt.
 
+M22
+Master, change 22 to text1.txt.
+
